@@ -1,4 +1,4 @@
-![CAT](https://github.com/user-attachments/assets/17cda3d4-6ba1-46f0-bb80-bfa3e9d3cee1)
+![Steamroller](https://github.com/user-attachments/assets/84cdd8e0-c206-4e54-9e87-727f2614cf08)
 
 > Learn how to operate and maintain heavy equipment.
 #
@@ -7,6 +7,8 @@
 
 Additionally, the GPT emphasizes safety protocols and preventative maintenance to ensure both operator safety and equipment longevity. By breaking down complex tasks into clear, manageable steps, it enables users to make informed decisions in various scenarios, from routine operations to emergency troubleshooting. This tool serves as a reliable resource for understanding and applying safe, effective practices in heavy equipment handling and upkeep, making it an accessible guide for professionals and enthusiasts alike.
 
+#
+![CAT](https://github.com/user-attachments/assets/17cda3d4-6ba1-46f0-bb80-bfa3e9d3cee1)
 #
 ![Excavator Drill](https://github.com/user-attachments/assets/a84b17bc-bd41-4664-a9a6-1bc47d5bb64e)
 
