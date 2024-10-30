@@ -1,4 +1,4 @@
-![Steamroller](https://github.com/user-attachments/assets/84cdd8e0-c206-4e54-9e87-727f2614cf08)
+![CAT](https://github.com/user-attachments/assets/17cda3d4-6ba1-46f0-bb80-bfa3e9d3cee1)
 
 > Learn how to operate and maintain heavy equipment.
 #
@@ -11,6 +11,8 @@ Additionally, the GPT emphasizes safety protocols and preventative maintenance t
 ![CAT](https://github.com/user-attachments/assets/17cda3d4-6ba1-46f0-bb80-bfa3e9d3cee1)
 #
 ![Excavator Drill](https://github.com/user-attachments/assets/a84b17bc-bd41-4664-a9a6-1bc47d5bb64e)
+#
+![Steamroller](https://github.com/user-attachments/assets/84cdd8e0-c206-4e54-9e87-727f2614cf08)
 
 #
 ####
