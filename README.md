@@ -9,8 +9,6 @@ Additionally, the GPT emphasizes safety protocols and preventative maintenance t
 
 #
 ![Excavator Drill](https://github.com/user-attachments/assets/a84b17bc-bd41-4664-a9a6-1bc47d5bb64e)
-#
-![Steamroller](https://github.com/user-attachments/assets/84cdd8e0-c206-4e54-9e87-727f2614cf08)
 
 #
 ####
