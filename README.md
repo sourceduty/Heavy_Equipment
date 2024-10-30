@@ -9,6 +9,8 @@ Additionally, the GPT emphasizes safety protocols and preventative maintenance t
 
 #
 ![Excavator Drill](https://github.com/user-attachments/assets/a84b17bc-bd41-4664-a9a6-1bc47d5bb64e)
+#
+![Caterpillar Equipment Landing Craft](https://github.com/user-attachments/assets/91dfd450-13c4-4d68-8749-55904b9c95b6)
 
 #
 ####
